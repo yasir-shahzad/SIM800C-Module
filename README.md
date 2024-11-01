@@ -3,7 +3,7 @@
 [![Commits since latest](https://img.shields.io/github/commits-since/yasir-shahzad/SIM800C-Module/latest)](https://github.com/yasir-shahzad/SIM800C-Module/commits/master) 
 [![GitHub issues](https://img.shields.io/github/issues/yasir-shahzad/SIM800C-Module.svg)](https://github.com/yasir-shahzad/SIM800C-Module/issues) 
 [![Downloads](https://img.shields.io/github/downloads/yasir-shahzad/SIM800C-Module/total.svg?maxAge=3600)](https://github.com/yasir-shahzad/SIM800C-Module/releases/latest) 
-![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=yasir-shahzad_Digispark-ATTINY85)
+![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=yasir-shahzad_SIM800C-Module)
 
 If you like **SIM800C-Module** - give it a star, or fork it and contribute!  
 [![GitHub stars](https://img.shields.io/github/stars/yasir-shahzad/SIM800C-Module.svg?style=social&label=Star)](https://github.com/yasir-shahzad/SIM800C-Module/stargazers)  
