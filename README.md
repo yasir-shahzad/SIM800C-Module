@@ -1,4 +1,4 @@
-# ⚡ SIM800C-Module ⚙️
+# ⚡ SIM800C-Module ⚡
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Commits since latest](https://img.shields.io/github/commits-since/yasir-shahzad/SIM800C-Module/latest)](https://github.com/yasir-shahzad/SIM800C-Module/commits/master) 
 [![GitHub issues](https://img.shields.io/github/issues/yasir-shahzad/SIM800C-Module.svg)](https://github.com/yasir-shahzad/SIM800C-Module/issues) 
@@ -113,28 +113,27 @@ If you'd like to contribute and help bring more exciting projects to life, consi
 
 ## Schematic Diagram 📉  
 The complete schematic diagram shows the electrical connections and components used in the design.  
-![alt ATTINY85 Schematic Diagram](images/ATtiny85-schematic.png)
+![alt SIM800C Schematic Diagram](images/SIM800C-schematic.png)
 
 ## PCB Layout 🖼️  
 The PCB layout represents the physical arrangement of components on the printed circuit board, detailing how they are positioned and connected.  
-![alt ATTINY85 PCB Layout](images/ATtiny85-PCB.png)
+![alt SIM800C PCB Layout](images/SIM800C-PCB.png)
 
 
 ## Features 🌟
 
--  **USB 5 V power supply** 🔌 for easy powering via USB.
--  **Full-speed USB interface** ⚡️ for fast and reliable data transfer.
--  **Bootloader for uploading sketches via USB** 💻, no external programmer required.
--  **Onboard 500 mA 5 V regulator** 🔋 for stable power distribution.
--  **6 I/O pins** 🛠️ (3 PWM pins, 4 ADC pins) for versatile input/output control.
--  **SPI and I2C supported** 🔗 for easy communication with other devices.
--  **8 KB of flash memory** 💾 (6 KB usable after bootloader) for storing your programs.
--  **512 bytes of SRAM** 📦 for temporary data storage.
--  **512 bytes of EEPROM** ✍️ for storing data even after power off.
--  **Compatible with the Arduino IDE** 🛠️ using the Digispark board package for seamless integration.
--  **Operating voltage: 5 V** ⚡️, perfect for most electronics projects.
--  **Small form factor** 📏 with low power consumption, ideal for compact projects.
--  **Status LED onboard** 💡 to indicate activity.
+- **Power Supply via USB or External 5V** 🔌 for flexible power options.
+- **Quad-Band GSM/GPRS Module** 📶 supporting 850/900/1800/1900 MHz bands for global connectivity.
+- **AT Command Interface** 💻 for easy communication with microcontrollers and computers.
+- **TCP/IP, HTTP, FTP Protocols** 🌐 for versatile data communication over the internet.
+- **SMS and Voice Call Support** 📞 for messaging and voice applications.
+- **Onboard 5V to 3.3V Regulator** 🔋 ensuring stable power for the module.
+- **Antenna Connector** 📡 for extended network range.
+- **Power Saving Mode** ⚡ to reduce power consumption during idle periods.
+- **I2C, UART, and SPI Interfaces** 🔗 for seamless communication with other devices.
+- **Status Indicators** 💡 for network and power statuses.
+- **Compact Form Factor** 📏 ideal for embedded and IoT projects.
+
 
 
 
@@ -179,7 +178,7 @@ The PCB layout represents the physical arrangement of components on the printed 
 
 ## Additional Information ℹ️
 
-- **Firmware**: This repository does not include the firmware. You can program the board using the Arduino IDE by installing the Digispark ATTINY85 board package from the boards manager.
+- **Firmware**: This repository does not include firmware. A separate repository is available with HTTPS, MQTT, and additional features. You can find it here:[SIM800C Firmware](https://github.com/yasir-shahzad/SIMCom-GSM)
 - **Assembly instructions (optional)**: 🔧 Consider adding a separate document or webpage with detailed instructions on soldering and assembling the PCB (if applicable).
 - **License**: 📄 Specify the open-source license used for the design files (e.g., MIT License).
 
