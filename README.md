@@ -16,7 +16,7 @@ If you'd like to contribute and help bring more exciting projects to life, consi
 
 <p align="center">
   <a href="https://github.com/JamesIves/github-sponsors-readme-action">
-    <img width="200px" src="https://github.com/JamesIves/github-sponsors-readme-action/raw/dev/.github/assets/icon.png">
+    <img width="100px" src="https://github.com/JamesIves/github-sponsors-readme-action/raw/dev/.github/assets/icon.png">
   </a>
 </p>
 
