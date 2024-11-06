@@ -17,6 +17,12 @@ If you'd like to contribute and help bring more exciting projects to life, consi
 ![GitHub Sponsor](https://img.shields.io/github/sponsors/<yasir-shahzad>?label=Sponsor&logo=GitHub)
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/<yasir-shahzad>)
 
+<p align='left'>
+ <a href="https://github.com/sponsors/yasir-shahzad">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
+  </a>&nbsp;&nbsp;
+</p>
+
 <p align="center">
   <a href="https://github.com/sponsors/yasir-shahzad">
     <img width="100px" src="https://github.com/JamesIves/github-sponsors-readme-action/raw/dev/.github/assets/icon.png">
