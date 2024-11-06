@@ -14,6 +14,12 @@ This repository contains the open-source schematic and PCB design files for a **
 **Support My Work and Future Projects**:  🚀✨  
 If you'd like to contribute and help bring more exciting projects to life, consider sponsoring my work. Every bit of support is greatly appreciated and helps me continue creating valuable tools and solutions.
 
+<p align="center">
+  <a href="https://github.com/JamesIves/github-sponsors-readme-action">
+    <img width="200px" src="https://github.com/JamesIves/github-sponsors-readme-action/raw/dev/.github/assets/icon.png">
+  </a>
+</p>
+
 <p align='left'>
   <a href="https://github.com/sponsors/yasir-shahzad">
     <img src="https://github.com/yasir-shahzad/yasir-shahzad/blob/resources/media/sponsor.gif" alt="Sponsor" />
