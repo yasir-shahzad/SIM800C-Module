@@ -23,12 +23,6 @@ If you'd like to contribute and help bring more exciting projects to life, consi
   </a>&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <a href="https://github.com/sponsors/yasir-shahzad">
-    <img width="100px" src="https://github.com/JamesIves/github-sponsors-readme-action/raw/dev/.github/assets/icon.png">
-  </a>
-</p>
-
 🟠 **As a freelancer, you can also find me on**:
 
 [![Fiverr Logo](https://img.shields.io/static/v1?message=Fiverr&logo=fiverr&label=&color=1DBF73&logoColor=white&labelColor=&style=for-the-badge)](https://www.fiverr.com/yasirshahzad786) 
