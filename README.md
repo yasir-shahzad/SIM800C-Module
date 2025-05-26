@@ -9,7 +9,7 @@ If you like **SIM800C-Module** - give it a star, or fork it and contribute!
 [![GitHub stars](https://img.shields.io/github/stars/yasir-shahzad/SIM800C-Module.svg?style=social&label=Star)](https://github.com/yasir-shahzad/SIM800C-Module/stargazers)  
 [![GitHub forks](https://img.shields.io/github/forks/yasir-shahzad/SIM800C-Module.svg?style=social&label=Fork)](https://github.com/yasir-shahzad/SIM800C-Module/network)
 
-This repository contains the open-source schematic and PCB design files for a **Digispark ATTINY85** development board clone, created using Altium Designer. This board allows you to work with the ATTINY85 microcontroller using the Digispark platform.
+This repository contains the open-source schematic and PCB design files for a **SIM800C-Module** development board clone, created using Altium Designer. This board allows you to work with the Sim800C microcontroller using the Digispark platform.
 
 **Support My Work and Future Projects**:  🚀✨  
 If you'd like to contribute and help bring more exciting projects to life, consider sponsoring my work. Every bit of support is greatly appreciated and helps me continue creating valuable tools and solutions.
@@ -127,9 +127,8 @@ The PCB layout represents the physical arrangement of components on the printed 
 - **TCP/IP, HTTP, FTP Protocols** 🌐 for versatile data communication over the internet.
 - **SMS and Voice Call Support** 📞 for messaging and voice applications.
 - **Onboard 5V to 3.3V Regulator** 🔋 ensuring stable power for the module.
-- **Antenna Connector** 📡 for extended network range.
+- **Antenna Connector** 📡 I-PEX antenna connector for extended network range.
 - **Power Saving Mode** ⚡ to reduce power consumption during idle periods.
-- **I2C, UART, and SPI Interfaces** 🔗 for seamless communication with other devices.
 - **Status Indicators** 💡 for network and power statuses.
 - **Compact Form Factor** 📏 ideal for embedded and IoT projects.
 
